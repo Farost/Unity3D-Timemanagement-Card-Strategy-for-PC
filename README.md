@@ -1,6 +1,6 @@
 # Unity3D-Timemanagement-Card-Strategy-for-PC
 
-There are just C# and XML files w/out UI png files, because they are too large.
+There are just C# and XML files w/out UI png files and Unity3D Engine options and compile files, because they are too large.
 
 In Russian: 
 1.	Тема работы
