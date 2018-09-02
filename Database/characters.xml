@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<characters>
+
+  <character id="1">
+    <name>Амиран</name>
+    <fullname>Амиран Чиковани</fullname>
+    <efficiency>60</efficiency>
+    <views>1</views>       <!--Лидер-->
+    <trust>190</trust>
+    <trustcoef>0.9</trustcoef>
+    <needoftrust1>200</needoftrust1>
+    <needoftrust2>300</needoftrust2>
+    <needoftrust3>400</needoftrust3>
+  
+</character>
+
+  <character id="2">
+    <name>Петрович</name>
+    <fullname>Петрович</fullname>
+    <efficiency>40</efficiency>
+    <views>0</views>   <!--Нейтральный-->
+    <trust>490</trust>
+    <trustcoef>1.0</trustcoef>
+    <needoftrust1>230</needoftrust1>
+    <needoftrust2>350</needoftrust2>
+    <needoftrust3>500</needoftrust3>
+  </character>
+
+  <character id="3">
+    <name>Архип</name>
+    <fullname>Архип Уваженный</fullname>
+    <efficiency>20</efficiency>
+    <views>2</views> <!--Светлячок-->
+    <trust>290</trust>
+    <trustcoef>1.2</trustcoef>
+    <needoftrust1>200</needoftrust1>
+    <needoftrust2>300</needoftrust2>
+    <needoftrust3>430</needoftrust3>
+  </character>
+
+  <character id="4">
+    <name>Марта</name>
+    <fullname>Марта Вознесенская</fullname>
+    <efficiency>30</efficiency>
+    <views>3</views>    <!--Инноватор-->
+    <trust>120</trust>
+    <trustcoef>0.8</trustcoef>
+    <needoftrust1>250</needoftrust1>
+    <needoftrust2>400</needoftrust2>
+    <needoftrust3>600</needoftrust3>
+  </character>
+
+  <character id="5">
+    <name>Федор</name>
+    <fullname>Федор Грозный</fullname>
+    <efficiency>50</efficiency>
+    <views>-3</views>   <!--Консерватор-->
+    <trust>100</trust>
+    <trustcoef>1.0</trustcoef>
+    <needoftrust1>200</needoftrust1>
+    <needoftrust2>330</needoftrust2>
+    <needoftrust3>500</needoftrust3>
+  </character>
+
+  <character id="6">
+    <name>Герман</name>
+    <fullname>Герман Бандерчук</fullname>
+    <efficiency>70</efficiency>
+    <views>-2</views>   <!--Агрессор-->
+    <trust>150</trust>
+    <trustcoef>1.3</trustcoef>
+    <needoftrust1>200</needoftrust1>
+    <needoftrust2>300</needoftrust2>
+    <needoftrust3>450</needoftrust3>
+  </character>
+
+  <character id="7">
+    <name>Антон</name>
+    <fullname>Антон Тестовый</fullname>
+    <efficiency>10</efficiency>
+    <views>0</views>
+    <trust>100</trust>
+    <trustcoef>1.0</trustcoef>
+    <needoftrust1>100</needoftrust1>
+    <needoftrust2>100</needoftrust2>
+    <needoftrust3>100</needoftrust3>
+  </character>
+
+  <character id="8">
+    <name>Евпатий</name>
+    <fullname>Евпатий с Фамилией</fullname>
+    <efficiency>50</efficiency>
+    <views>-1</views>
+    <trust>50</trust>
+    <trustcoef>0.6</trustcoef>
+    <needoftrust1>100</needoftrust1>
+    <needoftrust2>200</needoftrust2>
+    <needoftrust3>300</needoftrust3>
+  </character>
+
+  <character id="9">
+    <name>Тестовый</name>
+    <fullname>Дружище Тестовый</fullname>
+    <efficiency>100</efficiency>
+    <views>0</views>
+    <trust>700</trust>
+    <trustcoef>0.5</trustcoef>
+    <needoftrust1>100</needoftrust1>
+    <needoftrust2>300</needoftrust2>
+    <needoftrust3>500</needoftrust3>
+  </character>
+
+  <character id="10">
+    <name>Товарищ</name>
+    <fullname>Товарищ Тестовый</fullname>
+    <efficiency>400</efficiency>
+    <views>2</views>
+    <trust>100</trust>
+    <trustcoef>1.4</trustcoef>
+    <needoftrust1>200</needoftrust1>
+    <needoftrust2>310</needoftrust2>
+    <needoftrust3>450</needoftrust3>
+  </character>
+
+</characters>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<quests>
+
+  <quest id="1">
+    <title>Вылазка ради покушать</title>
+    <description>Здесь находится описание вылазки, которое дает некоторую информацию, которая подскажет, как ее проходить.</description>
+    <time>30</time>
+    <x>50</x>
+    <y>50</y>
+    <needuspeh>200</needuspeh>
+    <maxcharacters>5</maxcharacters>
+    <mincharacters>1</mincharacters>
+    <penalty75>1</penalty75>
+    <penaltyloss>4</penaltyloss>
+    <type>0</type>
+  </quest>
+
+  <quest id="2">
+    <title>Очистка зоны от зомби</title>
+    <description>Убивать зомби и смотреть, как на это реагируют другие зомби. Увлекательное занятие.</description>
+    <time>20</time>
+    <x>50</x>
+    <y>50</y>
+    <needuspeh>300</needuspeh>
+    <maxcharacters>6</maxcharacters>
+    <mincharacters>2</mincharacters>
+    <penalty75>2</penalty75>
+    <penaltyloss>5</penaltyloss>
+    <type>-2</type>
+  </quest>
+
+  <quest id="3">
+    <title>Сложная вылазка</title>
+    <description>Очень сложная вылазка, направляйте всех бойцов</description>
+    <time>40</time>
+    <x>50</x>
+    <y>50</y>
+    <needuspeh>500</needuspeh>
+    <maxcharacters>8</maxcharacters>
+    <mincharacters>3</mincharacters>
+    <penalty75>4</penalty75>
+    <penaltyloss>10</penaltyloss>
+    <type>1</type>
+  </quest>
+
+  <quest id="4">
+    <title>Какая-то вылазка</title>
+    <description>Тяжело вам рассказать про эту вылазку</description>
+    <time>25</time>
+    <x>50</x>
+    <y>50</y>
+    <needuspeh>200</needuspeh>
+    <maxcharacters>1</maxcharacters>
+    <mincharacters>8</mincharacters>
+    <penalty75>1</penalty75>
+    <penaltyloss>3</penaltyloss>
+    <type>3</type>
+  </quest>
+
+  <quest id="5">
+    <title>Срочная вылазка</title>
+    <description>Быстрее на эту вылазку, ведь если вы не успеете ее пройти, произойдут страшные вещи.</description>
+    <time>10</time>
+    <x>50</x>
+    <y>50</y>
+    <needuspeh>100</needuspeh>
+    <maxcharacters>1</maxcharacters>
+    <mincharacters>4</mincharacters>
+    <penalty75>1</penalty75>
+    <penaltyloss>3</penaltyloss>
+    <type>1</type>
+  </quest>
+
+  <quest id="6">
+    <title>Вылазка ради Бога</title>
+    <description>С Богом!</description>
+    <time>40</time>
+    <x>50</x>
+    <y>50</y>
+    <needuspeh>230</needuspeh>
+    <maxcharacters>6</maxcharacters>
+    <mincharacters>2</mincharacters>
+    <penalty75>2</penalty75>
+    <penaltyloss>4</penaltyloss>
+    <type>2</type>
+  </quest>
+  
+</quests>
