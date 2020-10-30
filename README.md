@@ -1,14 +1,5 @@
-# Unity3D-Timemanagement-Card-Strategy-for-PC
+# Unity3D Timemanagement Strategy Game
 
-There are just C# and XML files w/out UI png files and Unity3D Engine options and compile files, because they are too large.
-Look at "Game test doc (RUS)" for UI and work screenshots.
+Basic mechanics for a 2D video game in the time management strategy genre created based on the Unity3D engine.
 
-In Russian: 
-1.	Тема работы
-Разработка компьютерной игры в жанре менеджмент-стратегия на Unity
-2.	Требования к работе 
-Требования к функциональным характеристикам:
-пользовательский интерфейс, система репутации, система диалогов и всплывающих сообщений, система генерируемых заданий на карте местности, система управления общиной, профили персонажей.
-Требования к надежности: Целостный пользовательский интерфейс, отсутствие ошибок, стабильная работа программы, отсутствие утечек памяти.
-Требования к составу технических средств: компьютер с монитором, мышью и клавиатурой. Графическая плата с поддержкой DirectX 9.
-Требования к программной части: Язык программирования C# в среде разработки Unity.
+There are just C# and XML files w/out UI png files and Unity3D Engine options and compile files. Reputation, dialogues, messages, generated quests, and profiles systems.
